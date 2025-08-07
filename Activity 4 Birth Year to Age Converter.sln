@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity 4 Birth Year to Age Converter", "Activity 4 Birth Year to Age Converter.csproj", "{8116AD71-1F8F-4270-8FAC-B304AB377902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8116AD71-1F8F-4270-8FAC-B304AB377902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8116AD71-1F8F-4270-8FAC-B304AB377902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8116AD71-1F8F-4270-8FAC-B304AB377902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8116AD71-1F8F-4270-8FAC-B304AB377902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {946EE689-483A-47FB-B294-A2E5F0C83249}
+	EndGlobalSection
+EndGlobal
